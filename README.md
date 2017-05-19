@@ -1,6 +1,4 @@
-# elsiedx
+plate-box
+=========
 
-## sous-titre
-
-Coucou, ceci est le Git pour mon futur site web.
-
+HTML5 boiler plat with bootstrap support and fontawesome support... Included semantic HTML :P
